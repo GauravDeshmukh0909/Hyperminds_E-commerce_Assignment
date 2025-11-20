@@ -1,8 +1,6 @@
-// src/redux/productDetailSlice.js
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
-// ✅ Fetch product by ID
 export const fetchProductById = createAsyncThunk(
   "product/fetchById",
   async (id, { rejectWithValue }) => {
