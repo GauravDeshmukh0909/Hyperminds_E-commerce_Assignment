@@ -7,8 +7,8 @@ A fully completed mini e-commerce product catalogue application built using the 
 ---
 
 ## 🚀 Live Demo (Model Link)
-> Replace with your real production link  
-`https://e-commerce-assignment-omega.vercel.app`
+
+https://e-commerce-assignment-omega.vercel.app
 
 ---
 
